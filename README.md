@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Halfbendy
+- 👋 Hi, I’m @louismon
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently studying Computer Science
 - 💞️ I’m looking to collaborate on Machine Learning Projects
